@@ -36,5 +36,5 @@ Languages, coding, reading
 HTML5, CSS3, JavaScript, Git, WordPress, Bootstrap
 
 ## Languages
-Russian: Native\
+Russian: Native<br/>
 English: C1
