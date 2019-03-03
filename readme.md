@@ -1,1 +1,1 @@
-https://evgenynichiporenko.github.io/rsschool-2019Q1-cv/cv.md.
+https://evgenynichiporenko.github.io/rsschool-2019Q1-cv/cv
